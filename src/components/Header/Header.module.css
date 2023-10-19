@@ -1,0 +1,44 @@
+.top {
+    width: 68%;
+    height: 51px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(253, 253, 253, 0);
+    display: flex;
+}
+
+.logo {
+    width: auto;
+    height: 40px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.pages {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 43%;
+    height: 21px;
+}
+
+.page {
+    color: white;
+    margin: auto;
+    font-size: 14px;
+}
+
+.button {
+    background-color: rgba(0, 255, 255, 0);
+    width: 188px;
+    height: 51px;
+    border: 2px solid #D5621D;
+    border-radius: 5px;
+}
+
+.textbutton { 
+    margin: auto;
+    color: white;
+    font-size: 14px;
+}

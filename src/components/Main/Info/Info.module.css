@@ -1,0 +1,31 @@
+.main {
+    margin-top: 150px;
+    width: 1296px;
+    height: 1025px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.info {
+    width: 244px;
+    height: 38px;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 0.1px;
+}
+
+.textinfo {    
+    font-weight: bolder;
+    margin-top: 7px;
+}
+
+.tryhard {
+    color: white;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    font-family: Gotham Pro;
+}

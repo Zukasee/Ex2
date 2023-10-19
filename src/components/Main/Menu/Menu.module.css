@@ -1,0 +1,109 @@
+.menu {
+    margin-top: 100px;
+    width: 67.5%;
+    height: 983px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topmenu {
+    width: 244px;
+    height: 38px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0.1px;
+    border-radius: 5px;
+}
+
+.topmenutext {
+    margin-left: 25px;
+    font-size: 14px;
+    font-family: Gotham Pro;
+    font-weight: bold;
+}
+
+.kitchen {
+    font-size: 40px;
+    font-family: Gotham Pro;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+}
+
+.dish {
+    width: 486px;
+    height: 111px;
+    background-color: rgba(0, 255, 255, 0);
+    display: grid; 
+    grid-template-columns: 110px 351px;
+    grid-column-gap: 25px;
+}
+
+.deeshs {
+    display: grid;
+    grid-template-columns: 486px 486px;
+    grid-template-rows: repeat(111px, 5);
+    grid-column-gap: 100px;
+    grid-row-gap: 50px;
+    justify-content: center;
+}
+
+.img {
+    width: 110px;
+    height: 111px;
+    background-color: rgba(233, 132, 0, 0);
+}
+
+.textmenu {
+    width: 351px;
+    height: 111px;
+    background-color: rgba(52, 118, 118, 0);
+    display: grid;
+    grid-template-columns: 351px;
+    grid-template-rows: 27px 21px 42px;
+ 
+}
+
+.namedish {
+    color: rgb(255, 255, 255);
+    margin-top: 0px;
+    position: absolute;
+    margin-top: 5px;
+}
+
+.allmenu {
+    background-color: #D5621D;
+    width: 171px;
+    height: 57px;
+    padding: 15px, 30px, 15px, 30px;
+    border-radius: 5px;
+    margin-left: 43%;
+    margin-top: 100px;
+    color: white;
+    font-size: larger;
+}
+
+.sloy1 {
+    width: 351px;
+    height: 38px;
+}
+
+.coast {
+    width: 84px;
+    height: 30px;
+    float: right;
+    border-radius: 5px;
+    border: 2px solid #D5621D;
+    text-align: center;
+    padding-top: 7px;
+    color: white;
+}
+
+.weight {
+    color: #D5621D;
+}
+
+.description {
+    color: white;
+}

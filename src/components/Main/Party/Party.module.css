@@ -1,0 +1,145 @@
+.main {
+    margin-top: 150px;
+    width: 1078px;
+    height: 906px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.party {
+    width: 244px;
+    height: 38px;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 0.1px;
+}
+
+.textparty {    
+    font-weight: bolder;
+    margin-top: 7px;
+}
+
+.tryhard {
+    color: white;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    font-family: Gotham Pro;
+}
+
+.centre {
+    width: 1078px;
+    height: 688px;
+    background-color: rgba(250, 235, 215, 0);
+    display: grid;
+    grid-template-columns: 526px 415px;
+    grid-template-rows: 688px;
+    grid-column-gap: 137px;
+}
+
+.mainleft {
+    width: 526px;
+    height: 688px;
+    background-color: rgba(0, 255, 255, 0);
+}
+
+.leftelem {
+    width: 526px;
+    height: 253px;
+    background-color: #D5621D;
+    border-radius: 5px;
+    padding-top: 20px;
+}
+
+.elemtext {
+    font-weight: bold;
+    color: white;
+    margin-left: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 18px;
+    position: absolute;
+}
+
+.ul {
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.li {
+    margin-top: 16px;
+    margin-left: 10px;
+    font-size: 16px;
+    color: white;
+}
+
+.strelka {
+    float: right;
+    margin-right: 40px;
+}
+
+.elem {
+    width: 526px;
+    height: 47px;
+    background-color: #D5621D1A;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.righttext {
+    color: white;
+    font-weight: bolder;
+    font-size: 34px;
+    text-align: center;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.techrider {
+    width: 196px;
+    height: 300px;
+    
+}
+
+.name {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.network {
+    width: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: 35px 35px;
+    grid-template-rows: 35px;
+    grid-column-gap: 20px;
+}
+
+.net {
+    width: 35px;
+    height: 35px;
+    border: 2px solid #D5621D;
+    border-radius: 5px;
+}
+
+.netimg {
+    margin-left: 7px;
+    margin-top: 7px;
+}
+
+.mainright {
+    display: grid;
+    grid-template-columns: 196px 196px;
+    grid-template-rows: 180px 300px;
+    grid-column-gap: 20px;
+}
+
+.imgrider {
+    border-radius: 5px;
+}
